@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BetterText",
+  "name": "Better Text",
+  "description": "A drop-in replacement for text rendering and, one day, chat",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cruz Bishop"],
+  "credits": "The guys at the Mine your Mind network for complaining about chat limits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
